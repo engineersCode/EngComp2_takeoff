@@ -12,7 +12,12 @@ This second course module explores practical statistical analysis with Python, a
 
 ## Module 2: Take off with stats
 
-Hands-on data analysis using a computational approach and real-life applications.
+_Hands-on data analysis using a computational approach and real-life applications._
+
+Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
+Then navigate to `modules`, select one of the course modules, and lauch any notebook.
+
+ [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp2_takeoff/master)
 
 * **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
 

@@ -1,9 +1,14 @@
-# Engineering Computations
+# Engineering Computations Module 1
 
-The first module of this course, [_"Get data off the ground"_](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground),
+_Engineering Computations_ is an online course made up of a set of stackable learning modules, so that it can be flexible for adoption in different situations.
+It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
+The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
+
+The first module, [_"Get data off the ground"_](https://github.com/engineersCode/EngComp1_offtheground),
 assumed no coding experience and created a foundation with Python programming constructs and data structures.
 You learned to play with strings, lists and NumPy arrays, using indexing, slicing, for- and if-statements, and functions.
-The second course module explores practical statistical analysis with Python.
+
+This second course module explores practical statistical analysis with Python, and the [`pandas`](https://pandas.pydata.org) library for data analysis.
 
 ## Module 2: Take off with stats
 

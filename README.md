@@ -6,7 +6,7 @@ The course uses the Python programming language and the Jupyter open-source tool
 
 The first module, [_"Get data off the ground"_](https://github.com/engineersCode/EngComp1_offtheground),
 assumed no coding experience and created a foundation with Python programming constructs and data structures.
-You learned to play with strings, lists and NumPy arrays, using indexing, slicing, for- and if-statements, and functions.
+You learned to play with strings, lists and NumPy arrays, using indexing, slicing, `for`- and `if`-statements, and functions.
 
 This second course module explores practical statistical analysis with Python, and the [`pandas`](https://pandas.pydata.org) library for data analysis.
 

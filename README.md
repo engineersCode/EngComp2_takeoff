@@ -9,6 +9,8 @@ The second course module explores practical statistical analysis with Python.
 
 Hands-on data analysis using a computational approach and real-life applications.
 
+* **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
+
 ### [Lesson 1](http://go.gwu.edu/engcomp2lesson1): Cheers! Stats with beers
 
 Exploratory analysis using a data set of canned craft beers in the US. Introduces the `pandas`library and its data types: Data Frames and Series. Use `pandas` to read a data file, extract selected columns, and remove null values. Descriptive statistics: measures of central tendency and variability. Distribution plots: histograms with Matplotlib. Comparing with a normal distribution.
@@ -27,8 +29,6 @@ Deeper dive into `pandas`, using data for life expectancy and per-capita income 
 Pandas methods: `head()`, `info()`, `value_counts()`, `groupby()`, `describe()`, `groupby.first()`, `groupby.get_group()`, `idxmin()`
 Categorical data type.
 Bubble plots, spaghetti plots, and interactive widgets.
-
-* **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
 
 ## Copyright and License
 

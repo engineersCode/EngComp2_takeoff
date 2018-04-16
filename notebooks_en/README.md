@@ -26,6 +26,8 @@ Pandas methods: `head()`, `info()`, `value_counts()`, `groupby()`, `describe()`,
 Categorical data type.
 Bubble plots, spaghetti plots, and interactive widgets.
 
+* **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
+
 ## Copyright and License
 
 (c) 2017 Lorena A. Barba, Natalia C. Clementi. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!

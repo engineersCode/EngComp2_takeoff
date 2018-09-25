@@ -4,3 +4,4 @@
 #Ignore nbgrader log
 .nbgrader.log
 notebooks_en/beers.csv
+.DS_Store

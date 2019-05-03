@@ -17,7 +17,7 @@ _Hands-on data analysis using a computational approach and real-life application
 > Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
 > Select the folder `notebooks_en` to access the five lessons of this course as fully executable Jupyter notebooks.
 >
-> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp2_takeoff/master)
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp2_takeoff/master)
 
 * **Join the [open online course](http://go.gwu.edu/engcomp2)** in our _Open edX_ platform.
 * **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
